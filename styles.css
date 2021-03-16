@@ -10,7 +10,7 @@
 
 
 .MainBlock{
-    background-image: url(Imagens_teste/web/bg.png);
+    background-image: url(Imagens/web/bg.png);
     background-repeat: no-repeat;
     width: auto;
     height: 5355px;
@@ -22,7 +22,7 @@
 /*Bloco Home */
 
 #FirstBlock{
-    background-image: url(Imagens_teste/web/s1ft1.png);
+    background-image: url(Imagens/web/s1ft1.png);
     background-repeat: no-repeat;
     width: auto;
     height: 1080px;
@@ -198,7 +198,7 @@
     width: 514px;
     height: 648px;
     border-radius: 33px 33px 33px 33px;
-    background-image: url(Imagens_teste/web/s3\ ft1.png);
+    background-image: url(Imagens/web/s3\ ft1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -233,7 +233,7 @@
     width: 514px;
     height: 648px;
     border-radius: 33px 33px 33px 33px;
-    background-image: url(Imagens_teste/web/s3\ ft2.png);
+    background-image: url(Imagens/web/s3\ ft2.png);
     background-size: cover;
     background-repeat: no-repeat;   
 }
@@ -266,7 +266,7 @@
     width: 514px;
     height: 648px;
     border-radius: 33px 33px 33px 33px;
-    background-image: url(Imagens_teste/web/s3\ ft3.png);
+    background-image: url(Imagens/web/s3\ ft3.png);
     background-size: cover;
     background-repeat: no-repeat;   
 }
@@ -309,7 +309,7 @@
     width: 434px;
     height: 715px;
     position: absolute;
-    background: no-repeat url(Imagens_teste/web/s4\ ft1.png);
+    background: no-repeat url(Imagens/web/s4\ ft1.png);
     background-size: cover;
     opacity: 20;
 }
@@ -335,7 +335,7 @@
     width: 434px;
     height: 715px;
     position: absolute;
-    background: no-repeat url(Imagens_teste/web/s4\ ft2.png);
+    background: no-repeat url(Imagens/web/s4\ ft2.png);
     background-size: cover;
     opacity: 20;
 }
@@ -362,7 +362,7 @@
     width: 434px;
     height: 715px;
     position: absolute;
-    background: no-repeat url(Imagens_teste/web/s4\ ft3.png);
+    background: no-repeat url(Imagens/web/s4\ ft3.png);
     background-size: cover;
     opacity: 20;
 }
@@ -556,7 +556,7 @@
     /* Block Home Mobile */
 
     #FirstBlock{
-        background-image: url(Imagens_teste/mobile/s1mobile.png);
+        background-image: url(Imagens/mobile/s1mobile.png);
         background-repeat: no-repeat;
         width: auto;
         background-size: auto 812px;
@@ -575,7 +575,7 @@
         font-weight: 1000;  
     }
     .RockyLogo{
-        content: url(Imagens_teste/mobile/logo.png);
+        content: url(Imagens/mobile/logo.png);
         width: 112px;
         height: 27px;
         left: 36%;
@@ -699,7 +699,7 @@
         font-size: 9px;
     }
     .FirstBlock ul{
-        background-image: url(Imagens_teste/mobile/s4ft3.png);
+        background-image: url(Imagens/mobile/s4ft3.png);
     }
     .FirstBlock ul li{
         display: none;}
@@ -761,7 +761,7 @@
         top: 215px;
         width: 360px;
         height: 311px;
-        background-image: url(Imagens_teste/mobile/s3\ ft1.png);
+        background-image: url(Imagens/mobile/s3\ ft1.png);
         background-size: 375px 311px;
         left: 1px;
     }
@@ -794,7 +794,7 @@
         position: absolute;
         top: 1650px;
         width: 360px;
-        background-image: url(Imagens_teste/mobile/s3\ ft2.png);
+        background-image: url(Imagens/mobile/s3\ ft2.png);
         background-size: 375px 311px;
         left: 1px;
     }
@@ -828,7 +828,7 @@
         position: relative;
         top: 480px;
         width: 360px;
-        background-image: url(Imagens_teste/mobile/s3\ ft3.png);
+        background-image: url(Imagens/mobile/s3\ ft3.png);
         background-size: 375px 311px;
         left: 1px;
     }
@@ -872,7 +872,7 @@
         width: 100px;
     }
     #differentials1{
-        background: url(Imagens_teste/mobile/s4ft1.png);
+        background: url(Imagens/mobile/s4ft1.png);
         position: absolute;
         top: 2330px;
         width: 375px;
@@ -894,7 +894,7 @@
         font-weight: 1000;
     }
     #differentials2{
-        background: url(Imagens_teste/mobile/s4ft2.png);
+        background: url(Imagens/mobile/s4ft2.png);
         position: absolute;
         top: 2690px;
         width: 375px;
@@ -916,7 +916,7 @@
         font-weight: 1000;
     }
     #differentials3{
-        background: url(Imagens_teste/mobile/s4ft3.png);
+        background: url(Imagens/mobile/s4ft3.png);
         position: absolute;
         top: 3050px;
         width: 375px;
